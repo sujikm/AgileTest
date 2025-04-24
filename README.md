@@ -40,3 +40,13 @@ This project follows Agile principles:
 - ✅ Refactor-friendly codebase  
 - ✅ Scalable for future feature expansion or class-based design
  
+# 🧪 How to Run the Tests with Code Coverage in Eclipse
+
+Follow these steps to run the test suite and generate code coverage in **Eclipse IDE**:
+
+1. **Open Eclipse** and select your workspace.
+2. Go to **File > Import > Existing Projects into Workspace**.
+3. Browse to your project folder and click **Finish**.
+4. In the **Package Explorer**, right-click on the test class or test package.
+5. Select **Coverage As > JUnit Test**.
+6. Eclipse will run the tests and display **code coverage results** in the **Coverage** view.
