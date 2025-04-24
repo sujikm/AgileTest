@@ -1,43 +1,42 @@
-#🛠️ Agile Software Development Project – JUnit Test Suite for bankingApp.java
-As part of an Agile development process, I designed and implemented a JUnit 5 automated test suite for a Java application named bankingApp.java. The primary focus was to enhance the testability, maintainability, and modularity of the application by applying refactoring techniques and thorough unit testing.
+# 🚀 Agile Software Development – JUnit Test Suite for `bankingApp.java`
 
-📌 Key Contributions
-✅ Refactored the Java application to support structured and modular testing using JUnit 5.
+In this project, I developed a robust **JUnit 5 test suite** to support the Agile development of a Java application called `bankingApp.java`. The codebase was fully **refactored for testability**, modularity, and future scalability — ready for class-based redesign.
 
-✅ Created a comprehensive test suite capable of handling:
+---
 
-Functional tests
+# 🧩 What I Built: Smart, Scalable, and Testable Java Code
 
-Exception handling tests
+- 🔄 **Refactored legacy Java code** to support modular unit testing  
+- 🧪 Developed a **comprehensive JUnit 5 test suite** to ensure code quality and reliability  
+- 🧰 Designed the structure to allow **easy addition/removal of methods** or full object-oriented refactoring
 
-Parameterized tests
+---
 
-✅ Ensured the code is easily maintainable:
+# ⚙️ Powered by JUnit 5: Advanced Testing Techniques
 
-Methods can be added/removed with minimal test changes.
+Implemented full-spectrum testing using modern JUnit 5 features:
+- `@BeforeAll` – One-time setup  
+- `@BeforeEach` – Repeated setup for each test  
+- `@Test` – Standard unit tests  
+- `@ParameterizedTest` – Run tests with multiple data inputs  
+- `@Timeout` – Enforce performance limits  
+- `@AfterEach` – Clean up after each test  
+- `@AfterAll` – Global teardown after all tests complete
 
-The code is structured in a way that allows future conversion into class-based architecture.
+---
 
-🧪 JUnit 5 Features Implemented
-The test suite includes the following annotations:
+# 💥 Exception Handling: Resilient Code Under Pressure
 
-@BeforeAll – Setup executed once before all tests
+- ✅ Validated code against **custom exception scenarios**  
+- ✅ Verified behavior for **standard Java exceptions**  
+- ✅ Ensured **graceful handling of edge cases and failures**
 
-@BeforeEach – Setup executed before each test
+---
 
-@Test – Standard unit tests
+# 📈 Designed for Agility
 
-@ParameterizedTest – For testing multiple input cases
-
-@Timeout – To verify performance under time constraints
-
-@AfterEach – Cleanup after each test
-
-@AfterAll – Final cleanup after all tests
-⚠️ Exception Handling
-The test suite is also capable of testing:
-
-Custom exceptions
-
-Java standard exceptions, with proper assertions and edge case validation
-
+This project follows Agile principles:
+- ✅ Quick iteration and testing cycles  
+- ✅ Refactor-friendly codebase  
+- ✅ Scalable for future feature expansion or class-based design
+ 
