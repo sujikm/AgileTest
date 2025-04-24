@@ -1,4 +1,4 @@
-🛠️ #Agile Software Development Project – JUnit Test Suite for bankingApp.java
+#🛠️ Agile Software Development Project – JUnit Test Suite for bankingApp.java
 As part of an Agile development process, I designed and implemented a JUnit 5 automated test suite for a Java application named bankingApp.java. The primary focus was to enhance the testability, maintainability, and modularity of the application by applying refactoring techniques and thorough unit testing.
 
 📌 Key Contributions
